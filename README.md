@@ -1,7 +1,9 @@
 WordSlider
 ==========
  
-[![][Icon]]                                                                                                                                                               
+A sliding word puzzle game written in Python using PyGame.
+
+![Image of WordSlider](https://github.com/suttree/WordSlider/blob/master/screenshot.gif?raw=true)
  
 ## DESCRIPTION
  
